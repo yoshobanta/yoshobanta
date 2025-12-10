@@ -1,21 +1,82 @@
-# 💫 About Me:
-👋 Hi there! I'm a passionate MERN stack and web developer with a love for frontend design. While I enjoy creating visually appealing and user-friendly interfaces, I'm also diving deep into backend development to become a well-rounded developer. Always eager to learn and grow my skillset!
+# 👋 Yoshobanta Bisoi – Python Backend Developer
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=whit)](https://facebook.com/YashobantaBisoi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_yosho_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoshobanta-bisoi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BisoiYoshobanta) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Coderyosho&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Django | REST APIs | PostgreSQL | Full Stack Development**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Coderyosho&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🚀 About Me
 
+I'm a **Full Stack Web Developer specializing in Django & REST APIs**, with a strong foundation in HTML, CSS, and JavaScript, and a growing focus on backend engineering using Python.
+
+I enjoy building clean, scalable, and user-friendly applications. Right now, I'm deepening my backend skills by working on real projects involving **Django, Django REST Framework, PostgreSQL, and API development**.
+
+I'm passionate about solving problems, learning continuously, and writing code that is simple, reliable, and maintainable. My goal is to grow into a strong backend developer while still keeping my full-stack versatility.
+
+---
+
+## 🔗 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=globe)](https://portfolio-of-yoshobanta-bisoi.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yoshobanta-bisoi/) [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/yoshobanta)
+
+---
+
+## 💻 Tech Stack
+
+### Backend Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Frontend Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🎯 Key Projects
+
+🔐 **Bank Management System** – Python backend with secure transactions
+🛒 **E-Commerce Platform** – Django REST API with PostgreSQL
+📊 **Data Analytics Dashboard** – Python & visualization tools
+💼 **API Development** – RESTful services with Django REST Framework
+
+*View all projects on my [Portfolio](https://portfolio-of-yoshobanta-bisoi.vercel.app/) or in the repositories below.*
+
+---
+
+## 📈 GitHub Stats
+
+![Yoshobanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoshobanta&theme=dark&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshobanta&theme=dark&layout=compact)
+
+---
+
+## 🎓 Currently Learning
+
+- Advanced Django patterns and optimization
+- Docker & containerization
+- System design and architecture
+- AWS & cloud deployment
+- GraphQL APIs
+
+---
+
+## 📧 Let's Connect
+
+💼 **Looking for collaborations on backend development projects?**
+
+📬 Reach out via [LinkedIn](https://www.linkedin.com/in/yoshobanta-bisoi/)
+
+🌐 Visit my [Full Portfolio](https://portfolio-of-yoshobanta-bisoi.vercel.app/) to see my work in detail
+
+---
+
+*Last Updated: December 2025*
