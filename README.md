@@ -1,4 +1,4 @@
-# Yoshobanta Bisoi – Full Stack Python Backend Developer
+#Full Stack Python Backend Developer
 
 ## About Me
 
